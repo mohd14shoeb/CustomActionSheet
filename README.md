@@ -23,4 +23,4 @@
 
 ## Show Results
 
-![github](https://github.com/yaoqi-github/CustomAlertView/blob/master/CustomActionSheet.gif)
+![github](https://github.com/yaoqi-github/CustomActionSheet/blob/master/CustomActionSheet.gif)
